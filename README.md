@@ -4,9 +4,9 @@ This application provided an introduction to React Native so that I could become
 
 Skills Learned: 
 + React Native Fundamentals
-‣ Expo and Expo Go
-‣ Styling in Native with styled-components
-‣ Navigation
-‣ Testing apps on multiple devices
-‣ Async Storage
-‣ Proper ways to organize files and folders
++ Expo and Expo Go
++ Styling in Native with styled-components
++ Navigation
++ Testing apps on multiple devices
++ Async Storage
++ Proper ways to organize files and folders
